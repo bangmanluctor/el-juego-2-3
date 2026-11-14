@@ -1,0 +1,12 @@
+AudioStreamPlayer
+Button
+RichTextLabel
+VBoxContainer
+PanelContainer
+TileMapLayer
+Sprite2D
+CollisionShape2D
+CharacterBody2D
+AnimationPlayer
+Camera2D
+Node
